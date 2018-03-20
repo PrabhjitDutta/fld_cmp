@@ -5,8 +5,8 @@ files or folder (i.e. files or folders compare with their name or format) inside
 they can either compare the folders for similar files/folders, compare the folder for dissimilar files/folders, or sync the two directories. 
 
 Two modules have been used:
-* `click`
-* `os`
+* `click` (for more info :-https://docs.python.org/2/library/os.html)
+* `os` (for more info :- http://click.pocoo.org/5/)
 
 ## Installing the Command
 

@@ -20,7 +20,7 @@ You can always use the:
 
 		`fld_cmp --help.` to search for help.
 		
-The syntax of the command is fld_cmp [PATH1] [PATH2] 1/2, 
+The syntax of the command is fld_cmp [PATH1] [PATH2] 1/2/3, 
 where PATH1 represents the address of one of the folder you want to scan 
 and PATH2 is the address of the folder you want to compare it to 
 and finally you have to type: 

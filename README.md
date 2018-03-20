@@ -8,13 +8,13 @@ Two modules have been used:
 * `click`
 * `os`
 
-# Installing the Command
+## Installing the Command
 
 *Navigate to the folder where you have downloaded the files using cd command on the command line.'
 *Then type':
   `pip install --editable .`
   
-# Using the Commands
+## Using the Commands
 
 You can always use the:
 

@@ -1,4 +1,4 @@
-# fld_cmp
+# fld_cmp/sync
 
 This is a command-line application built using Python and Click. The user can use the given command fld_cmp to scan to folders and find similar/dissimlar
 files or folder (i.e. files or folders compare with their name or format) inside of the directories provided by the user or even sync the two folders. The user is provided with three options

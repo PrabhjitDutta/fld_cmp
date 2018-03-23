@@ -72,7 +72,7 @@ def cli(path1, path2, choice, verbose):
             sync_list2.append(i)
             temp += 1
 
-        for i in file_list1:
+        for i in sync_list1:
             os.system(f'copy "{path1}\\{i}" "{path2}"')
-        for i in file_list2:
+        for i in sync_list2:
             os.system(f'copy "{path2}\\{i}" "{path1}"')

@@ -13,17 +13,17 @@ CONTEXT_SETTINGS = dict(help_option_names=['-h', '--help'])
 def cli(path1, path2, choice, verbose):
 
     '''This command helps scan 2 folder to search for similar/different files or folders in them and you also have
-            the option to sync those directories.
+        the option to sync those directories.
 
 
-            PATH1 :- Address of one of the folder you want to scan.
+        PATH1 :- Address of one of the folder you want to scan
 
 
-            PATH2 :- Address of the folder you want to
-            compare it to.
+        PATH2 :- Address of the folder you want to
+        compare it to
 
 
-            Choice :- Type 1 if you want to scan for similar files/folder, 2 for different files/folders or 3 to sync the two folders.'''
+        Choice :- ype 1 if you want to scan for similar files/folder, 2 for different files/folders or 3 to sync the two folders.'''
 
     count = 0
     temp = 0

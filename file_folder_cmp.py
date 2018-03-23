@@ -23,7 +23,7 @@ def cli(path1, path2, choice, verbose):
         compare it to
 
 
-        Choice :- ype 1 if you want to scan for similar files/folder, 2 for different files/folders or 3 to sync the two folders.'''
+        Choice :- Type 1 if you want to scan for similar files/folder, 2 for different files/folders or 3 to sync the two folders.'''
 
     count = 0
     temp = 0

@@ -43,6 +43,7 @@ def cli(path1, path2, choice, verbose):
                     print(i)
                     file_list2.pop(file_list2.index(j))
                     count += 1
+                    continue
         print("\n{} Similar files/folder Found".format(count))
 
     elif choice == 2:
